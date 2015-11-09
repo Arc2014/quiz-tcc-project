@@ -1,0 +1,1 @@
+Quiz Game, é um jogo com caráter educativo , criado com o intuito de se tornar uma ferramenta para complementar o ensino de Engenharia de Software, de uma forma lúdica e dinâmica.
